@@ -1,0 +1,184 @@
+/** @format */
+
+#head {
+	margin-left: 45%;
+}
+#data img {
+	width: 150px;
+	height: 150px;
+}
+#data {
+	display: grid;
+	grid-template-columns: repeat(4, 25%);
+	margin-left: 2%;
+	text-align: center;
+}
+#data div {
+	border: 2px solid black;
+	border-radius: 5px;
+	margin: 20px;
+	padding: 20px;
+	font-size: 20px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+		'Lucida Sans', Arial, sans-serif;
+	background-color: rgb(236, 229, 229);
+}
+#data div button {
+	width: 200px;
+	height: 50px;
+	font-size: 20px;
+	background-color: orange;
+	color: white;
+}
+#data1 {
+	display: grid;
+	grid-template-columns: repeat(4, 25%);
+	margin-right: 150px;
+}
+#btn1 {
+	width: 200px;
+	height: 30px;
+	font-size: 14px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#btn2 {
+	width: 200px;
+	height: 30px;
+	font-size: 14px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+	margin-left: 40%;
+}
+#items {
+	margin-left: 70%;
+	font-size: 20px;
+}
+#here {
+	width: 50px;
+	height: 17px;
+	font-size: 18px;
+}
+#total {
+	margin-left: 70%;
+	font-size: 20px;
+	margin-top: 20px;
+}
+#here1 {
+	width: 70px;
+	height: 17px;
+	font-size: 18px;
+}
+#code {
+	font-size: 20px;
+}
+#here2 {
+	width: 80px;
+	font-size: 15px;
+}
+#co {
+	width: 80px;
+	font-size: 15px;
+}
+#data1 {
+	margin-left: 15%;
+}
+#data1 div {
+	border: 2px solid black;
+	text-align: center;
+	margin: 20px;
+	border-radius: 5px;
+	padding: 20px;
+	font-size: 16px;
+	font-weight: bold;
+}
+#check {
+	width: 200px;
+	height: 50px;
+	font-size: 25px;
+	margin-left: 35%;
+	background-color: blueviolet;
+	color: white;
+	border-radius: 5px;
+}
+#out {
+	margin-left: 40%;
+}
+#name2 {
+	width: 200px;
+	font-size: 20px;
+}
+#add {
+	width: 200px;
+	font-size: 20px;
+}
+#add2 {
+	width: 200px;
+	font-size: 20px;
+}
+#city {
+	width: 200px;
+	font-size: 20px;
+}
+#state {
+	width: 200px;
+	font-size: 20px;
+}
+#pin {
+	width: 200px;
+	font-size: 20px;
+}
+#phone {
+	width: 200px;
+	font-size: 20px;
+}
+#submit1 {
+	width: 100px;
+	font-size: 20px;
+	margin-left: 41%;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+		'Lucida Sans', Arial, sans-serif;
+	background-color: chocolate;
+}
+#checkout {
+	margin-left: 36%;
+}
+#checkout div {
+	margin: 20px;
+}
+#pay {
+	margin-left: 40%;
+}
+#main {
+	margin-left: 35%;
+}
+#main div {
+	margin: 20px;
+}
+#card {
+	width: 200px;
+	height: 30px;
+	font-size: 20px;
+	border-radius: 5px;
+}
+#Valid {
+	width: 200px;
+	height: 30px;
+	font-size: 20px;
+	border-radius: 5px;
+}
+#CVV {
+	width: 200px;
+	height: 30px;
+	font-size: 20px;
+	border-radius: 5px;
+}
+#place {
+	width: 150px;
+	height: 30px;
+	font-size: 20px;
+	margin-left: 45px;
+	background-color: brown;
+	border-radius: 5px;
+	color: white;
+}
